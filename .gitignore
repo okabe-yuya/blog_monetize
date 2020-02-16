@@ -1,0 +1,9 @@
+# dataset file format
+*.csv
+
+# daa in dir
+/data/
+
+# > $ python3 -m venv analize
+# created virtual env's data
+/analyze/
