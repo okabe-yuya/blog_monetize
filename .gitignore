@@ -7,3 +7,5 @@
 # > $ python3 -m venv analize
 # created virtual env's data
 /analyze/
+
+.ipynb_checkpoints/
